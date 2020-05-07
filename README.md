@@ -27,6 +27,8 @@ So I did all of the parts by hands except pulley.
 <br>
 <br>
 <br>
+Click on  photo to reach working video 
+
 <br
 
 [![](http://img.youtube.com/vi/26Hov5GSZLI/0.jpg)](http://www.youtube.com/watch?v=26Hov5GSZLI "Video Link")
