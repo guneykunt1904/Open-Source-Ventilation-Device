@@ -14,7 +14,7 @@ The writers and people who are the parts of this projects don't take any respons
 
 
 ## Aim of the Project
-[System](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/docs/System.jpeg)
+![System](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/docs/System.jpeg)
 This project's aim is to provide a solution for people in shortage of the medical device espacially mechanical ventilation devices.
 
 ## Difficuilties when making this device
@@ -28,7 +28,7 @@ There were a lot of difficulties when I was ttrying to create this project.
 Our code is uploaded to [Software()] and we can improve it.I have been already working on the code therefore I will add new versions of code.
 ## Features
 
-* In this device we have 2 potentiometers to control Respiratory Rate and Tidal Volume that is given to patient.As you can see in the code the respiration rate in a minute is confined 9 to 17 breath.This numbers are sufficient most of the times but if you have more or less breath times in a minute you can change* MAX_BREATH_num* ans *MIN_BREATH_num* parts of the code but there may be some errors when you make radical changes on the code. 
+* In this device we have 2 potentiometers to control Respiratory Rate and Tidal Volume that is given to patient.As you can see in the code the respiration rate in a minute is confined 9 to 17 breath.This numbers are sufficient most of the times but if you have more or less breath times in a minute you can change *MAX_BREATH_num* and *MIN_BREATH_num* parts of the code but there may be some errors when you make radical changes on the code. 
 
 * Total volume of the BWM bag in this project is 1300ml so I adjust the maximum tidal volume as 1200ml and the minimum tidal volume as 450ml.According to code you can adjust between these values.Also you can change it according to your needs.In the *step_counter()* function minimum step number is 5000 and maximum step number is 7000 because I am using my stepper motor driver TB6560 in 1/16 microstepping mode.These values can be change according to your system(Your BWM bag,your stepper motor,your motor driver etc...). <br>
 
