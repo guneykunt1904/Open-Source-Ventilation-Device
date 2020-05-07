@@ -4,6 +4,7 @@ In this part I will explain components that is used in this project.
 * Arduino UNO
 * NEMA 23 Stepper Motor
 * TB6560 Stepper Motor Driver
+* Power Supply
 * Potentiometer
 * Jumpers <br>
 ## Arduino UNO
@@ -27,9 +28,13 @@ create 1.26 Nm torque.This Torque value is enough.As I mentioned in the [readme.
  
  These means 3A Output current 1/16 microstepping and %20 Stop current %0 decay current if you want to more information <br>
  you can look at its data sheet here is the [link](https://www.allelectronics.com/mas_assets/media/allelectronics2018/spec/SMC-5.pdf) <br>
+ Also,I am using 24V power Supply As you can understand at the figure the pinouts should be like this but yu don't have to connect enable pins.
  
  ![TB6560](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/docs/TB6560%20pinout.png)
- 
+## Power Supply 
+
+24V power supply is recommended with TB6560.Yet,you can use laptop power supplies such that 19.5V 3A its your responsibility.
+
 ## Potentiometes
 I am using potentiometers but you can use encoders or more comlicated components.
 
