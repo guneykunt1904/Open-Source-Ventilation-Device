@@ -25,7 +25,7 @@ There were a lot of difficulties when I was ttrying to create this project.
 * I choose the design because it is effective,efficient and can be appliciable.**If you have less powerfull stepper motor than mine you can use longer arm to increase the torque that is applied to BWM bag.** Yet,you have to think about the weight of the arm it shouldn't be too heavy.
 
 ## CODE
-Our code is uploaded to [Software()] and we can improve it.I have been already working on the code therefore I will add new versions of code.
+Our code is uploaded to [Software](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/tree/master/Software/Source_Code)and we can improve it.I have been already working on the code therefore I will add new versions of code.
 ## Features
 
 * In this device we have 2 potentiometers to control Respiratory Rate and Tidal Volume that is given to patient.As you can see in the code the respiration rate in a minute is confined 9 to 17 breath.This numbers are sufficient most of the times but if you have more or less breath times in a minute you can change *MAX_BREATH_num* and *MIN_BREATH_num* parts of the code but there may be some errors when you make radical changes on the code. 
