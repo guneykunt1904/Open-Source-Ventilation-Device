@@ -29,7 +29,7 @@ So I did all of the parts by hands except pulley.
 <br>
 Click on  photo to reach working video 
 
-<br
+<br>
 
 [![](http://img.youtube.com/vi/26Hov5GSZLI/0.jpg)](http://www.youtube.com/watch?v=26Hov5GSZLI "Video Link")
 <br>
@@ -48,7 +48,7 @@ Our code is uploaded to [Software](https://github.com/guneykunt1904/Open-Source-
 **There is more information about the code at the software part**
 
 **Detailed İnformation about components and pin diagrams in [Electronical Parts](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/tree/master/Electronical%20Parts)**
-
+** Detailed informaiton about Mechanical parts of the project is at the [Mechanical Parts](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/tree/master/Mechanical%20Parts).
 
 
 
