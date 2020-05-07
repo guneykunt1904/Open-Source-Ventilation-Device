@@ -14,7 +14,7 @@ The writers and people who are the parts of this projects don't take any respons
 
 
 ## Aim of the Project
-
+[System](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/docs/System.jpeg)
 This project's aim is to provide a solution for people in shortage of the medical device espacially mechanical ventilation devices.
 
 ## Difficuilties when making this device
