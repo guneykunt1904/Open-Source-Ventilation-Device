@@ -14,8 +14,8 @@ unsigned long total_time;        // represents total time of each breath
 #define rate_pot A0       //By changing the value of potentiometer we can change the num of breath times in a minute
 #define volume_pot A1     //10-15 ml/kg // In this poteniometer user gives the valu of each breath in ml.
 #define  peep_pot A2    // to determine the peep value // 0-5 cm H2O
-#define dirr 3            // give voltage to determine the direction of stepMotor
-#define stepp 4 // Give the pulse to create steps 
+#define dirr 3            // give voltage to determine the direction of stepMotor It will connected to CW+ of TB6560
+#define stepp 4          // Give the pulse to create steps    It will connected to CLK+ of TB6560
 
 
 int step_counter(int tidalvolume){           //This function determines the step amount according to tidal volume amount by c changing compression amount
