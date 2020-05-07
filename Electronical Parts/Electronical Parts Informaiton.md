@@ -17,7 +17,7 @@ First version of the project I am using NEMA 23 3A stepper motor.Its serial code
 create 1.26 Nm torque.This Torque value is enough.As I mentioned in the [readme.md](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/README.md) <br>
 ıf you have less powerfull motor you can try with more longer arm whether it works or not.
 
-![nema23](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/docs/nema%2023.png)
+![nema23](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/docs/Pulley_1.jpeg)
 ## TB6560
 
  If you are using strong stepper motor like NEMA 23 you have to use stepper motor drivers that can drive at high current rates like 3A.<br>
@@ -30,13 +30,14 @@ create 1.26 Nm torque.This Torque value is enough.As I mentioned in the [readme.
  you can look at its data sheet here is the [link](https://www.allelectronics.com/mas_assets/media/allelectronics2018/spec/SMC-5.pdf) <br>
  Also,I am using 24V power Supply As you can understand at the figure the pinouts should be like this but yu don't have to connect enable pins.
  
- ![TB6560](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/docs/TB6560%20pinout.png)
+ ![TB6560](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/docs/Tb6560.jpeg)
 ## Power Supply 
 
 24V power supply is recommended with TB6560.Yet,you can use laptop power supplies such that 19.5V 3A its your responsibility.
 
 ## Potentiometes
-I am using potentiometers but you can use encoders or more comlicated components.
+I am using potentiometers but you can use encoders or more comlicated components.I am using A0 pin as respiration rate  pin and A1 pin as tidal volume pin.
+![potentiometers](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/docs/Potentiometers.jpeg)
 
 ## Jumpers
 
