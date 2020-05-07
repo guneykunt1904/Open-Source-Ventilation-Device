@@ -47,7 +47,7 @@ Our code is uploaded to [Software](https://github.com/guneykunt1904/Open-Source-
 
 **There is more information about the code at the software part**
 
-**Detailed İnformation about components and pin diagrams in [Electronical Parts](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/tree/master/Electronical%20Parts)**
+**Detailed İnformation about components and pin diagrams in [Electronical Parts](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/tree/master/Electronical%20Parts)** <br>
 **Detailed informaiton about Mechanical parts of the project is at the [Mechanical Parts](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/tree/master/Mechanical%20Parts).**
 
 
