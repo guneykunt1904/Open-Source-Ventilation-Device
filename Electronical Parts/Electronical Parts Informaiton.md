@@ -31,6 +31,8 @@ create 1.26 Nm torque.This Torque value is enough.As I mentioned in the [readme.
  Also,I am using 24V power Supply As you can understand at the figure the pinouts should be like this but yu don't have to connect enable pins.
  
  ![TB6560](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/Electronical%20Parts/Photos/Tb6560.jpeg)
+ 
+ ![scheme](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/Electronical%20Parts/Photos/Scheme.jpg)
 ## Power Supply 
 
 24V power supply is recommended with TB6560.Yet,you can use laptop power supplies such that 19.5V 3A its your responsibility.
