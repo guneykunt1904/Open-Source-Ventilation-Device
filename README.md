@@ -24,7 +24,7 @@ So I did all of the parts by hands except pulley.
 * First of all I was trying to do this project in quarantine conditions because there was curfew and I could only use internet sites and some parts of projects have to be produced in lathe so I reached the man whose name is Övgü Kavas([His youtube Channel](https://www.youtube.com/user/Velespitnet)) and ask for help from him.He tried to help me and produced the pulley part of the system.Also I tried a lot of designs but the design that I upload is our version 1.0.0
 
 * I choose the design because it is effective,efficient and can be appliciable.**If you have less powerfull stepper motor than mine you can use longer arm to increase the torque that is applied to BWM bag.** Yet,you have to think about the weight of the arm it shouldn't be too heavy.
-
+[![](http://img.youtube.com/vi/26Hov5GSZLI/0.jpg)](http://www.youtube.com/watch?v=26Hov5GSZLI "Works")
 ## CODE
 Our code is uploaded to [Software](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/tree/master/Software/Source_Code)and we can improve it.I have been already working on the code therefore I will add new versions of code.
 ## Features
