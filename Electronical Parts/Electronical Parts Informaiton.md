@@ -36,7 +36,8 @@ create 1.26 Nm torque.This Torque value is enough.As I mentioned in the [readme.
 ## Power Supply 
 
 24V power supply is recommended with TB6560.Yet,you can use laptop power supplies such that 19.5V 3A its your responsibility.
-
+<br>
+Also in the code you can see the tidal volume and respiration rate in the serial monitor so you can connect with your laptop and arduino but ıf you don't want to you can use other types to supply electricity to your arduino.
 ## Potentiometes
 I am using potentiometers but you can use encoders or more comlicated components.I am using A0 pin as respiration rate  pin and A1 pin as tidal volume pin.
 ![potentiometers](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/Electronical%20Parts/Photos/Potentiometers.jpeg)
