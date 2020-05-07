@@ -38,6 +38,8 @@ Pulley is produced from Aluminum
 Platform holds the BWM bag and there is a hinge that is connected to arm.Measurements is on [Photos](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/tree/master/Mechanical%20Parts/Photos)folder
 <br>
 In the platform part I strongly recommend to use plastic but here I could only use wood because I can only procces the wood.
+As you can see in the photos there is a half circle at the platform.The radius of this circle is 70mm.
+
 ![platform](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/blob/master/Mechanical%20Parts/Photos/Platform.jpeg)
 
 ### HİNGE 
