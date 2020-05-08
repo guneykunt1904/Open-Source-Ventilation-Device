@@ -35,6 +35,7 @@ Click on  photo to reach working video
 <br>
 <br>
 <br>
+**I'm not getting paid for youtube video payment option is turned of for this video 
 <br>
 ## CODE
 Our code is uploaded to [Software](https://github.com/guneykunt1904/Open-Source-Ventilation-Device/tree/master/Software/Source_Code)and we can improve it.I have been already working on the code therefore I will add new versions of code.
